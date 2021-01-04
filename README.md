@@ -3,7 +3,7 @@ For this project, my goal is to create a program that prints out a chart that li
 
 The program itself essentially accesses the csv file HotStuff.csv which contains the Billboard Top 100 chart from all time and then a function is created to store the csv file into Pandas DataFrame and then print out a chart based on the artist's name that the user enters. If the user spells the artist's name wrong they will be told to try again. 
 
-Unfortunately the CSV file is too big to upload on github so the CSV file is unable to be shown.  
+Unfortunately the CSV file is too big to upload on github but to access the csv file the link is found here: https://data.world/kcmillersean/billboard-hot-100-1958-2017
 
 # Result when the user enters in their chosen artist.
 ![](result-Billboard.jpg)
