@@ -6,7 +6,7 @@ The program itself essentially accesses the csv file HotStuff.csv which contains
 Unfortunately the CSV file is too big to upload on github so the CSV file is unable to be shown.  
 
 # Result when the user enters in their chosen artist.
-![](result-Billboard.jpg.jpg)
+![](result-Billboard.jpg)
 
 # Result when the user mispells their chosen artist.
 ![](wrongSpelling.jpg)
