@@ -6,8 +6,8 @@ The program itself essentially accesses the csv file HotStuff.csv which contains
 Unfortunately the CSV file is too big to upload on github but to access the csv file the link is found here: https://data.world/kcmillersean/billboard-hot-100-1958-2017
 
 # Result when the user enters in their chosen artist.
-![](result-Billboard.jpg)
+![](Images/result-Billboard.jpg)
 
 # Result when the user mispells their chosen artist.
-![](wrongSpelling.jpg)
+![](Images/wrongSpelling.jpg)
 
